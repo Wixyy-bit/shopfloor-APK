@@ -8,7 +8,7 @@ The app enables **Operators** to capture machine downtime and maintenance tasks,
 ## 🚀 Live Artifact
 
 🔗 **App Install / Expo Link**  
-> https://expo.dev/artifacts/eas/qbLe9gDhERuGU7zVq3dFye.apk
+> https://expo.dev/artifacts/eas/bGE1mXdn6kkqwMnfjmLwuB.apk
 
 ---
 
