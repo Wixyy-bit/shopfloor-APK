@@ -1,4 +1,4 @@
-# 🏭 Shop Floor Lite — Offline-First Manufacturing App
+# 🏭 Shop Floor Lite - Offline-First Manufacturing App
 
 Shop Floor Lite is a cross-platform, offline-first mobile application designed for manufacturing shop floors where network connectivity is unreliable.
 
@@ -19,10 +19,10 @@ https://expo.dev/artifacts/eas/bGE1mXdn6kkqwMnfjmLwuB.apk
 ## 🧰 Tech Stack
 
 - **React Native (Expo)**
-- **Zustand** — Lightweight global state management
-- **AsyncStorage** — Offline persistence & sync queue
-- **Expo Router** — File-based navigation
-- **Custom ID Generator** — Used instead of UUID for Android APK stability
+- **Zustand** : Lightweight global state management
+- **AsyncStorage** : Offline persistence & sync queue
+- **Expo Router** : File-based navigation
+- **Custom ID Generator** : Used instead of UUID for Android APK stability
 
 ---
 
